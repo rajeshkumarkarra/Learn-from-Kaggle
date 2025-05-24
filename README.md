@@ -1,2 +1,2 @@
 # LearnAI
-Learn AI in a easy way
+Learn AI in an easy way
